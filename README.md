@@ -84,7 +84,7 @@ EDAMAME has been **tested on real hardware**, not just emulators:
 │ Cloud Backend      │
 │ - API Gateway      │
 │ - Lambda           │
-│ - Database         │
+│ - Dynamo DB / S3   │
 └─────────┬──────────┘
           ▼
 ┌────────────────────┐
